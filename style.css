@@ -1,0 +1,13 @@
+h1{
+  padding-top: 50px;
+}
+hr {
+  border:none;
+  border-top: 10px dotted red; width:100px;
+}
+img{
+  border-radius: 20px;
+}
+a{
+  color: #B2B6D5;
+}
